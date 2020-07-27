@@ -1,5 +1,5 @@
 ## 三角形的最大周长
-链接： https://leetcode-cn.com/problems/largest-perimeter-triangle/
+题目链接： https://leetcode-cn.com/problems/largest-perimeter-triangle/
 
 ## 思路
 - 将输入的列表进行排序，从小到大
