@@ -1,5 +1,5 @@
 ## 3的幂
-链接：https://leetcode-cn.com/problems/power-of-three/
+链接：https://leetcode-cn.com/problems/power-of-three/  
 简单描述：判断给定的整数是否为3的幂次方
 
 ## 思路
