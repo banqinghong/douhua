@@ -1,3 +1,5 @@
+package longestCommonPrefix
+
 func longestCommonPrefix(strs []string) string {
     // 长度为0的时候直接返回空字符串
 	if len(strs) == 0 {

@@ -1,3 +1,5 @@
+package twoSum
+
 func twoSum(nums []int, target int) []int {
     // 新建差值map，用于存放差值
     diffMap := make(map[int]int)
