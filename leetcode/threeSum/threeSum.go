@@ -1,3 +1,7 @@
+package threeSum
+
+import "sort"
+
 func threeSum(nums []int) [][]int {
     // 首先排序
     // [-1,0,1,2,-1,-4]

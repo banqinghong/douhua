@@ -1,3 +1,5 @@
+package containsDuplicate
+
 func containsDuplicate(nums []int) bool {
     numMap := make(map[int]int)
     for k, v := range nums {

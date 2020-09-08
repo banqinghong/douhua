@@ -1,3 +1,7 @@
+package largestperimeter
+
+import "sort"
+
 func largestPerimeter(A []int) int {
     sort.Ints(A)
     // [3,6,2,55,44,78,65,123]

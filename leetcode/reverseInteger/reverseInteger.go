@@ -1,3 +1,7 @@
+package reverseInteger
+
+import "math"
+
 func reverse(x int) int {
     // 2^31 = 2147483648
     limit_max := int((math.Pow(2,31) - 1) / 10) // 
